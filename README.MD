@@ -10,6 +10,12 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 ## Caso de uso en general
 ![CU_GENERAL](https://user-images.githubusercontent.com/82779333/137084293-cecbf208-07e9-4f89-86b2-31f0910b0497.PNG)
 
+## Registrarse
+![image](https://user-images.githubusercontent.com/85375405/137224425-5dbf4998-44be-4a63-84b5-e8ac9b2e88dc.png)
+
+## Actualizar información
+![image](https://user-images.githubusercontent.com/85375405/137224446-829980a4-a7c8-44f7-a9da-181807c48955.png)
+
 ## Personas cerca
 ![image](https://user-images.githubusercontent.com/92350303/137072873-58ec30d2-17f5-483b-a0eb-1a1f5ac9bacb.png)
 
@@ -24,6 +30,13 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 
  
 # Prototipos
+
+## Registrarse
+![REGISTRAR](https://user-images.githubusercontent.com/85375405/137225328-47aa93aa-c1e4-40b0-ace9-967db0b4df48.jpg)
+
+## Actualizar información
+![Screenshot_20211013_021012](https://user-images.githubusercontent.com/85375405/137225126-78ac7a59-cd94-4338-ad5b-55a76ce61fc2.jpg)
+
 ## Personas cerca
 ![telegram-personas-cerca](https://user-images.githubusercontent.com/92350303/137069007-c5e6ca1e-a77b-4ffc-a67d-28da5e0cc9a4.jpg)
 ## Invitar amigos
